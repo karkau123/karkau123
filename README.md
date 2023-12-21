@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/@kartike67351289" target="blank"><img src="https://img.shields.io/twitter/follow/@kartike67351289?logo=twitter&style=for-the-badge" alt="@kartike67351289" /></a> </p>
 
-- 🔭 I’m currently working on **Meals App**
+- 🔭 I’m currently working on **Chat App**
 
-- 🌱 I’m currently learning **flutter animations**
+- 🌱 I’m currently learning **Flutter backend using firebase**
 
 - 💬 Ask me about **Android , IOS , Flutter , Dart , **
 
