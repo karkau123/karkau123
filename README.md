@@ -6,7 +6,7 @@
   <img src="https://giphy.com/gifs/R03zWv5p1oNSQd91EP" alt="Coding" align="right" width="400">
 </div>
 
-<p align="left"> <a href="https://twitter.com/@kartike67351289" target="blank"><img src="https://img.shields.io/twitter/follow/@kartike67351289?logo=twitter&style=for-the-badge" alt="@kartike67351289" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/@kartike67351289](https://images.app.goo.gl/GASXvioxR4WTV38d8)" target="blank"><img src="https://img.shields.io/twitter/follow/@kartike67351289?logo=twitter&style=for-the-badge" alt="@kartike67351289" /></a> </p>
 
 - 🔭 I’m currently working on **Chat App**
 
