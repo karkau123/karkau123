@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Chat App**
 
-- 🌱 I’m currently learning **Flutter backend using firebase**
+- 🌱 I’m currently learning **node JS**
 
 - 💬 Ask me about **Android , IOS , Flutter , Dart , **
 
