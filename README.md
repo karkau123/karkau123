@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **SANIC - A Fast Asyncronous Python Framework for backend developement**
 
-- 💬 Ask me about **Backend development, Sanic , Web Development , Flutter  **
+- 💬 Ask me about **Backend Dev, Sanic , Web Development , Flutter**
 
 - 📫 How to reach me **singhkartikeya202@gmail.com**
 
