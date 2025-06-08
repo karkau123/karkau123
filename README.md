@@ -12,13 +12,23 @@
 
 <p align="left"> <a href="[https://twitter.com/@kartike67351289](https://images.app.goo.gl/GASXvioxR4WTV38d8)" target="blank"><img src="https://img.shields.io/twitter/follow/@kartike67351289?logo=twitter&style=for-the-badge" alt="@kartike67351289" /></a> </p>
 
-- 🔭 I’m currently working on **My Portfolio Website**
+### 🚀 About Me
 
-- 🌱 I’m currently learning **SANIC - A Fast Asyncronous Python Framework for backend developement**
+- 🔭 I’m currently working on **implementing system design principles in real-world projects**  
+- 🌱 Currently learning:
+  - **FastAPI** –  fast asynchronous Python framework for backend development  
+  - **React** – for building dynamic and responsive frontends  
+  - **Redux** – for managing complex application state  
+- 💬 Ask me about:
+  - **System Design**
+  - **Data Structures & Algorithms (DSA)**
+  - **API Design & Development**
+  - **Object-Oriented Programming (OOP)**
+  - **Database Management Systems (DBMS)**
+  - **Computer Networks**
+  - **Backend Development**
+- 📫 Reach me at: **singhkartikeya202@gmail.com**
 
-- 💬 Ask me about **Backend Dev, Sanic , Web Development , Flutter**
-
-- 📫 How to reach me **singhkartikeya202@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
