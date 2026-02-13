@@ -2,32 +2,26 @@
 <p align="center">
   <img src="https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif?x59862" width="100%" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Kartikeya Singh</h1>
-<h3 align="center">A Passionate Backend developer from India</h3>
+<h3 align="center">Systems-minded SDE-1 (early-career) — Backend & Distributed Systems</h3>
 
- <div class="con" style="border-radius: 50px">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding" align="right" width="400">
-</div>
+<p>
+  Former Backend Intern at :contentReference[oaicite:0]{index=0}.  
+  Focused on building production-ready, high-performance backends, APIs, and microservices.
+</p>
 
+### 🔧 Skills & Focus
+- Backend: **Python (FastAPI)**, **Golang**, microservices, RESTful APIs  
+- Systems: performance, observability, resilience, distributed systems  
+- DevOps: Docker, CI/CD, container orchestration, production deployments
 
-<p align="left"> <a href="[https://twitter.com/@kartike67351289](https://images.app.goo.gl/GASXvioxR4WTV38d8)" target="blank"><img src="https://img.shields.io/twitter/follow/@kartike67351289?logo=twitter&style=for-the-badge" alt="@kartike67351289" /></a> </p>
+### 📚 Certifications & Learning
+- Certifications: pursuing **Microsoft Certified Professional (MCP)** via :contentReference[oaicite:1]{index=1}  
+- Currently learning: **Kubernetes**, advanced **system design**, Go internals, service mesh, and observability
 
-### 🚀 About Me
-
-- 🔭 I’m currently working on **implementing system design principles in real-world projects**  
-- 🌱 Currently learning:
-  - **FastAPI** –  fast asynchronous Python framework for backend development  
-  - **React** – for building dynamic and responsive frontends  
-  - **Redux** – for managing complex application state  
-- 💬 Ask me about:
-  - **System Design**
-  - **Data Structures & Algorithms (DSA)**
-  - **API Design & Development**
-  - **Object-Oriented Programming (OOP)**
-  - **Database Management Systems (DBMS)**
-  - **Computer Networks**
-  - **Backend Development**
-- 📫 Reach me at: **singhkartikeya202@gmail.com**
+### 📫 Contact
+- singhkartikeya202@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
