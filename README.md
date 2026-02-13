@@ -6,20 +6,19 @@
 <h1 align="center">Hi 👋, I'm Kartikeya Singh</h1>
 <h3 align="center">Backend Engineer</h3>
 
-### 🔧 Tech Stack
-- **Python (FastAPI)** & **Golang**
-- Microservices & REST APIs
-- Docker, CI/CD, production deployments
-- Performance optimization & system design
+### 🔧 Skills & Focus
+- Backend: **Python (FastAPI)** & **Golang**
+- Microservices & RESTful APIs
+- Performance, scalability & distributed systems
+- Docker, CI/CD & production deployments
 
 ### 📚 Currently Exploring
 - Kubernetes & container orchestration
 - Advanced system design
-- Distributed systems patterns & observability
+- Observability & distributed systems patterns
 
 ### 📫 Contact
 - singhkartikeya202@gmail.com
-
 
 
 <h3 align="left">Connect with me:</h3>
