@@ -4,21 +4,23 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Kartikeya Singh</h1>
-<h3 align="center">Systems-minded SDE-1 (early-career) — Backend & Distributed Systems</h3>
+<h3 align="center">Backend Engineer | Distributed Systems</h3>
 
 <p>
-  Former Backend Intern at :contentReference[oaicite:0]{index=0}.  
-  Focused on building production-ready, high-performance backends, APIs, and microservices.
+  Backend Developer with experience building scalable, production-grade systems.
+  Previously worked as a Backend Intern at Tata 1mg, contributing to real-world APIs and high-performance services.
 </p>
 
-### 🔧 Skills & Focus
-- Backend: **Python (FastAPI)**, **Golang**, microservices, RESTful APIs  
-- Systems: performance, observability, resilience, distributed systems  
-- DevOps: Docker, CI/CD, container orchestration, production deployments
+### 🔧 Tech Stack
+- **Python (FastAPI)** & **Golang**
+- Microservices & REST APIs
+- Docker, CI/CD, production deployments
+- Performance optimization & system design
 
-### 📚 Certifications & Learning
-- Certifications: pursuing **Microsoft Certified Professional (MCP)** via :contentReference[oaicite:1]{index=1}  
-- Currently learning: **Kubernetes**, advanced **system design**, Go internals, service mesh, and observability
+### 📚 Currently Exploring
+- Kubernetes & container orchestration
+- Advanced system design
+- Distributed systems patterns & observability
 
 ### 📫 Contact
 - singhkartikeya202@gmail.com
