@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Kartikeya Singh</h1>
-<h3 align="center">Backend Engineer | Distributed Systems</h3>
+<h3 align="center">Backend Engineer</h3>
 
 ### 🔧 Tech Stack
 - **Python (FastAPI)** & **Golang**
@@ -19,6 +19,7 @@
 
 ### 📫 Contact
 - singhkartikeya202@gmail.com
+
 
 
 <h3 align="left">Connect with me:</h3>
