@@ -42,32 +42,87 @@ me.say_hi()
 
 <div align="center">
 
-#### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>💻 Languages</h3>
+</td>
+<td align="center" width="75%">
+<img src="https://skillicons.dev/icons?i=python,go,cpp,c&theme=dark" />
+</td>
+</tr>
 
-#### **Backend & Frameworks**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+<tr>
+<td align="center" width="25%">
+<h3>⚡ Backend & Frameworks</h3>
+</td>
+<td align="center" width="75%">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,go&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white&logoWidth=20" height="32"/>
+</td>
+</tr>
 
-#### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<tr>
+<td align="center" width="25%">
+<h3>🗄️ Databases</h3>
+</td>
+<td align="center" width="75%">
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis&theme=dark" />
+</td>
+</tr>
 
-#### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<tr>
+<td align="center" width="25%">
+<h3>🛠️ DevOps & Tools</h3>
+</td>
+<td align="center" width="75%">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux&theme=dark" />
+</td>
+</tr>
 
-#### **Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<tr>
+<td align="center" width="25%">
+<h3>📱 Mobile Development</h3>
+</td>
+<td align="center" width="75%">
+<img src="https://skillicons.dev/icons?i=flutter,dart,android&theme=dark" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🎯 Core Competencies
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/api-settings.png" width="48px"/><br />
+<sub><b>RESTful APIs</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/microservices.png" width="48px"/><br />
+<sub><b>Microservices</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/database.png" width="48px"/><br />
+<sub><b>Database Design</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/docker.png" width="48px"/><br />
+<sub><b>Containerization</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/performance.png" width="48px"/><br />
+<sub><b>Performance</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
