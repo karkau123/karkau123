@@ -6,11 +6,6 @@
 <h1 align="center">Hi 👋, I'm Kartikeya Singh</h1>
 <h3 align="center">Backend Engineer | Distributed Systems</h3>
 
-<p>
-  Backend Developer with experience building scalable, production-grade systems.
-  Previously worked as a Backend Intern at Tata 1mg, contributing to real-world APIs and high-performance services.
-</p>
-
 ### 🔧 Tech Stack
 - **Python (FastAPI)** & **Golang**
 - Microservices & REST APIs
