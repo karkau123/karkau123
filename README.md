@@ -1,289 +1,540 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kartikeya%20Singh&fontSize=42&fontAlignY=32&desc=Backend%20Engineer%20|%20Building%20Scalable%20Systems&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
-</div>
+═════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Backend+Engineer;Python+%7C+FastAPI+%7C+Golang;Microservices+%26+Distributed+Systems;Building+Scalable+Solutions)](https://git.io/typing-svg)
+
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00D9FF,100:7B2FFE&height=200&section=header&text=KARTIKEYA%20SINGH&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Cloud%20Native%20Builder&descAlignY=55&descSize=16&descAlign=50" width="100%"/>
+
+<!-- ANIMATED TYPING -->
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%94%A5+Building+Production-Grade+Backends;%E2%9A%A1+Python+%7C+Go+%7C+Kubernetes+%7C+Microservices;%F0%9F%9A%80+Scaling+Systems+to+Handle+Millions)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- SOCIAL BADGES — SLEEK STYLE -->
+<a href="https://linkedin.com/in/kartikeya-singh1211"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/></a>&nbsp;
+<a href="https://twitter.com/kartike67351289"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>&nbsp;
+<a href="https://leetcode.com/singh_kartik"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/singhkartikeya200"><img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/></a>&nbsp;
+<a href="mailto:singhkartikeya202@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<!-- PROFILE METRICS -->
+<img src="https://komarev.com/ghpvc/?username=karkau123&color=00D9FF&style=flat-square&label=Profile+Visitors" alt="Profile Views"/>
+&nbsp;&nbsp;
+<a href="https://github.com/karkau123?tab=followers"><img src="https://img.shields.io/github/followers/karkau123?label=Followers&style=flat-square&color=7B2FFE&labelColor=0D1117" alt="Followers"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/karkau123?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-27+-0D1117?style=flat-square&labelColor=0D1117&color=00D9FF" alt="Repos"/></a>
 
 </div>
 
----
+<br/>
 
-### 👨‍💻 About Me
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🖥️ TERMINAL-STYLE ABOUT ME                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-```python
-class BackendEngineer:
-    def __init__(self):
-        self.name = "Kartikeya Singh"
-        self.role = "Backend Engineer"
-        self.location = "India 🇮🇳"
-        self.languages = ["Python", "Go", "C++", "C"]
-        self.interests = ["Microservices", "System Design", "Cloud Native"]
-        
-    def current_focus(self):
-        return [
-            "Kubernetes & Container Orchestration",
-            "Advanced System Design Patterns",
-            "Distributed Systems & Observability",
-            "Performance Optimization"
-        ]
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;Who Am I
+
+```js
+// ─── kartikeya.config.js ────────────────────────────────────────────────────────
+
+const kartikeya = {
+    pronouns: "he" | "him",
+    location: "India 🇮🇳",
+    title: "Backend Engineer & Systems Architect",
     
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together!")
-
-me = BackendEngineer()
-me.say_hi()
+    code: {
+        languages:  ["Python", "Go", "C++", "C", "Dart", "JavaScript"],
+        backend:    ["FastAPI", "Flask", "Gin", "gRPC"],
+        databases:  ["PostgreSQL", "MongoDB", "Redis", "SQLite"],
+        devops:     ["Docker", "Kubernetes", "CI/CD", "Linux", "Nginx"],
+        mobile:     ["Flutter", "Dart", "Android"],
+        tools:      ["Git", "Prometheus", "Grafana", "Helm", "Istio"]
+    },
+    
+    architecture: [
+        "Microservices", "Event-Driven", "Serverless",
+        "REST APIs", "Distributed Systems", "CQRS"
+    ],
+    
+    currentlyLearning: "Advanced Kubernetes Patterns & Service Mesh",
+    funFact: "I debug distributed systems for fun on weekends 🔍"
+};
 ```
 
----
+<br/>
 
-### 🚀 Tech Stack
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏗️ FEATURED PROJECTS                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
-<h3>💻 Languages</h3>
+<td width="50%">
+
+### 🏦 E-Wallet — Digital Payment System
+<a href="https://github.com/karkau123/E-Wallet">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=karkau123&repo=E-Wallet&theme=react&bg_color=0D1117&border_color=1a1b27&hide_border=false&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" width="100%"/>
+</a>
+
+**`Python`** **`FastAPI`** **`SQLAlchemy`** **`REST API`**
+
+> Full-stack digital wallet with multi-currency support, gateway integration, transaction logging, and deposit/withdrawal management
+
 </td>
-<td align="center" width="75%">
-<img src="https://skillicons.dev/icons?i=python,go,cpp,c&theme=dark" />
+<td width="50%">
+
+### 🛒 Scalable E-Commerce App
+<a href="https://github.com/karkau123/Scalable-Ecommerce-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=karkau123&repo=Scalable-Ecommerce-app&theme=react&bg_color=0D1117&border_color=1a1b27&hide_border=false&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" width="100%"/>
+</a>
+
+**`Microservices`** **`Go`** **`Docker`** **`Scalable`**
+
+> Production-ready e-commerce platform built with microservices architecture, designed for horizontal scaling
+
 </td>
 </tr>
 
 <tr>
-<td align="center" width="25%">
-<h3>⚡ Backend & Frameworks</h3>
+<td width="50%">
+
+### 🤖 ML CI/CD Pipeline
+<a href="https://github.com/karkau123/ML_CI_CD">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=karkau123&repo=ML_CI_CD&theme=react&bg_color=0D1117&border_color=1a1b27&hide_border=false&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" width="100%"/>
+</a>
+
+**`ML Ops`** **`CI/CD`** **`Python`** **`Automation`**
+
+> End-to-end machine learning pipeline with automated training, testing, and deployment workflows
+
 </td>
-<td align="center" width="75%">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,go&theme=dark" />
+<td width="50%">
+
+### 📝 Job Autofiller
+<a href="https://github.com/karkau123/Job-Autofiller">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=karkau123&repo=Job-Autofiller&theme=react&bg_color=0D1117&border_color=1a1b27&hide_border=false&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" width="100%"/>
+</a>
+
+**`Automation`** **`Python`** **`Web Scraping`** **`Tool`**
+
+> Smart job application autofiller that streamlines the job hunting process with intelligent form automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💬 Real-Time Chat App
+<a href="https://github.com/karkau123/CHAT_APP">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=karkau123&repo=CHAT_APP&theme=react&bg_color=0D1117&border_color=1a1b27&hide_border=false&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" width="100%"/>
+</a>
+
+**`Flutter`** **`Dart`** **`Firebase`** **`Real-Time`**
+
+> Cross-platform real-time messaging application with modern UI and push notifications
+
+</td>
+<td width="50%">
+
+### ⚡ FastAPI Backend
+<a href="https://github.com/karkau123/FastAPI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=karkau123&repo=FastAPI&theme=react&bg_color=0D1117&border_color=1a1b27&hide_border=false&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" width="100%"/>
+</a>
+
+**`FastAPI`** **`Python`** **`Backend`** **`API`**
+
+> High-performance backend service built with FastAPI featuring async operations and clean architecture
+
+</td>
+</tr>
+</table>
+
 <br/>
-<img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white&logoWidth=20" height="32"/>
-</td>
-</tr>
 
-<tr>
-<td align="center" width="25%">
-<h3>🗄️ Databases</h3>
-</td>
-<td align="center" width="75%">
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis&theme=dark" />
-</td>
-</tr>
+<a href="https://github.com/karkau123?tab=repositories">
+<img src="https://img.shields.io/badge/🔍_Explore_All_Repos-0D1117?style=for-the-badge&logoColor=white&color=00D9FF" alt="All Repos"/>
+</a>
 
-<tr>
-<td align="center" width="25%">
-<h3>🛠️ DevOps & Tools</h3>
-</td>
-<td align="center" width="75%">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux&theme=dark" />
-</td>
-</tr>
+</div>
 
-<tr>
-<td align="center" width="25%">
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🛠️ TECH ARSENAL                                                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Tech Arsenal
+
+<div align="center">
+
+<!-- LANGUAGES -->
+<h3>⚔️ Languages & Core</h3>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<!-- BACKEND & FRAMEWORKS -->
+<h3>🔥 Backend & Frameworks</h3>
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+</p>
+
+<!-- DATABASES -->
+<h3>🗄️ Databases & Caching</h3>
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+<!-- DEVOPS & CLOUD -->
+<h3>☁️ DevOps & Infrastructure</h3>
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+<!-- MONITORING -->
+<h3>📊 Observability & Monitoring</h3>
+<p>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white"/>
+</p>
+
+<!-- MOBILE -->
 <h3>📱 Mobile Development</h3>
-</td>
-<td align="center" width="75%">
-<img src="https://skillicons.dev/icons?i=flutter,dart,android&theme=dark" />
-</td>
-</tr>
-</table>
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+<!-- TOOLS -->
+<h3>🔧 Tools & Platforms</h3>
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</p>
 
 </div>
 
 <br/>
 
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 📈 GITHUB ANALYTICS                                                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 &nbsp;GitHub Analytics
+
 <div align="center">
 
-### 🎯 Core Competencies
+<!-- ROW 1: Stats + Languages -->
+<a href="https://github.com/karkau123">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karkau123&show_icons=true&theme=react&bg_color=0D1117&border_color=1a1b27&hide_border=false&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true&ring_color=7B2FFE&rank_icon=percentile"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/karkau123">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karkau123&layout=compact&langs_count=8&theme=react&bg_color=0D1117&border_color=1a1b27&hide_border=false&title_color=00D9FF&text_color=c9d1d9"/>
+</a>
 
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/api-settings.png" width="48px"/><br />
-<sub><b>RESTful APIs</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/microservices.png" width="48px"/><br />
-<sub><b>Microservices</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/database.png" width="48px"/><br />
-<sub><b>Database Design</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/docker.png" width="48px"/><br />
-<sub><b>Containerization</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/performance.png" width="48px"/><br />
-<sub><b>Performance</b></sub>
-</td>
-</tr>
-</table>
+<br/><br/>
+
+<!-- ROW 2: Streak Stats -->
+<a href="https://github.com/karkau123">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karkau123&theme=react&background=0D1117&border=1a1b27&stroke=00D9FF&ring=7B2FFE&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" alt="GitHub Streak"/>
+</a>
+
+<br/><br/>
+
+<!-- ROW 3: Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karkau123&theme=react-dark&bg_color=0D1117&color=00D9FF&line=7B2FFE&point=FFFFFF&area_color=00D9FF&area=true&hide_border=false&custom_title=Contribution%20Activity" width="95%"/>
 
 </div>
 
----
+<br/>
 
-### 📊 GitHub Analytics
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 TROPHIES                                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karkau123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karkau123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karkau123&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
-</div>
+## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karkau123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=karkau123&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="95%"/>
 </div>
 
----
+<br/>
 
-### 🏆 GitHub Trophies
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎯 WHAT I'M UP TO                                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎯 &nbsp;Current Mission
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karkau123&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="95%"/>
-</div>
-
----
-
-### 🎯 Current Focus
 
 ```yaml
+# ─── mission_control.yaml ───────────────────────────────────────────────────
+
+status: "🟢 ACTIVE"
+last_updated: "2026-02-14"
+
 learning:
-  - Kubernetes & Helm Charts
-  - Advanced System Design Patterns
-  - Distributed Tracing & Observability
-  - gRPC & Protocol Buffers
-  
+  - "☸️  Advanced Kubernetes Patterns & Operators"
+  - "🕸️  Service Mesh with Istio & Envoy"
+  - "📡  gRPC & Protocol Buffers"
+  - "🔄  Event-Driven Architectures (Kafka, NATS)"
+
 building:
-  - Microservices with Go & Python
-  - High-performance APIs
-  - Scalable backend architectures
-  
+  - "🏦  E-Wallet — Production-grade digital payment system"
+  - "🛒  Scalable E-Commerce — Microservices architecture"
+  - "🤖  ML CI/CD — Automated ML deployment pipeline"
+  - "⚡  High-performance REST & gRPC APIs"
+
 exploring:
-  - Cloud Native Computing (CNCF)
-  - Service Mesh (Istio)
-  - Event-Driven Architectures
+  - "☁️  CNCF Ecosystem & Cloud Native Tooling"
+  - "📊  Distributed Tracing (Jaeger, OpenTelemetry)"
+  - "🔒  Zero-Trust Security Architectures"
+  - "🧪  Chaos Engineering & Resilience Testing"
 ```
 
----
+</div>
 
-### 💡 What I Do
+<br/>
 
-- 🔨 Build **scalable microservices** with Python (FastAPI) and Go
-- 🏗️ Design **RESTful APIs** and **distributed systems**
-- 🚀 Focus on **performance optimization** and **system reliability**
-- 🐳 Deploy applications with **Docker** and **CI/CD** pipelines
-- 📊 Implement **observability** and **monitoring** solutions
-- 🧪 Write clean, tested, and maintainable code
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 💡 WHAT I DO                                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🤝 Let's Connect
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> &nbsp;What I Bring to the Table
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikeya-singh1211)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kartike67351289)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kartikeya_singh360)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/singh_kartik)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/singhkartikeya200)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhkartikeya202@gmail.com)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=karkau123&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" />
-</div>
-
----
-
-### 💼 Professional Interests
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/server.png" width="64px"/><br />
-      <b>Backend Development</b><br />
-      Building robust APIs & services
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="64px"/><br />
-      <b>Cloud & DevOps</b><br />
-      Containerization & deployment
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/system-task.png" width="64px"/><br />
-      <b>System Design</b><br />
-      Scalable architectures
-    </td>
-  </tr>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/api-settings.png" width="60px"/><br/>
+<b>API Architecture</b><br/>
+<sub>Design & build RESTful APIs<br/>and gRPC services at scale</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/microservices.png" width="60px"/><br/>
+<b>Microservices</b><br/>
+<sub>Decompose monoliths into<br/>scalable, resilient services</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/docker.png" width="60px"/><br/>
+<b>Containerization</b><br/>
+<sub>Docker & Kubernetes for<br/>production orchestration</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/combo-chart--v1.png" width="60px"/><br/>
+<b>Observability</b><br/>
+<sub>Prometheus, Grafana &<br/>distributed tracing</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/database.png" width="60px"/><br/>
+<b>Database Design</b><br/>
+<sub>SQL & NoSQL schema design,<br/>migrations & optimization</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/security-checked.png" width="60px"/><br/>
+<b>Auth & Security</b><br/>
+<sub>JWT, OAuth2, RBAC and<br/>security best practices</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/test-tube.png" width="60px"/><br/>
+<b>Testing & CI/CD</b><br/>
+<sub>Unit, integration tests &<br/>automated pipelines</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/smartphone-performance-2.png" width="60px"/><br/>
+<b>Mobile Apps</b><br/>
+<sub>Cross-platform Flutter<br/>applications</sub>
+</td>
+</tr>
 </table>
 
----
+</div>
 
-### 📝 Latest Blog Posts & Learning
+<br/>
 
-- 🔄 Exploring **Kubernetes patterns** for production deployments
-- 🌐 Deep diving into **distributed systems** fundamentals
-- ⚡ Optimizing **API performance** with caching strategies
-- 🔐 Implementing **authentication** and **authorization** best practices
-- 📊 Setting up **observability** with Prometheus and Grafana
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🐍 CONTRIBUTION SNAKE                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🎮 Fun Fact
+## 🐍 &nbsp;Watch My Contributions Get Eaten
 
-```go
-package main
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karkau123/karkau123/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karkau123/karkau123/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/karkau123/karkau123/output/github-snake-dark.svg" width="100%"/>
+</picture>
+</div>
 
-import "fmt"
+> 💡 **Setup Tip:** Add [this GitHub Action](https://github.com/Platane/snk) to your profile repo to auto-generate the snake animation!
 
-func main() {
-    interests := []string{
-        "Building scalable systems",
-        "Problem solving on LeetCode",
-        "Contributing to open source",
-        "Learning new technologies",
-    }
-    
-    for _, interest := range interests {
-        fmt.Printf("✨ %s\n", interest)
-    }
-    
-    fmt.Println("\n🚀 Always eager to learn and collaborate!")
-}
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🧠 DAILY.DEV CARD + METRICS                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ⚡ &nbsp;Quick Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🔥 Streak & Productivity
+  
+<img src="https://github-contributor-stats.vercel.app/api?username=karkau123&limit=5&theme=react&combine_all_yearly_contributions=true&hide_border=false&bg_color=0D1117&border_color=1a1b27&title_color=00D9FF&text_color=c9d1d9" width="100%"/>
+
+</td>
+<td width="50%" align="center">
+
+### 📈 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karkau123&theme=github_dark" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karkau123&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karkau123&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karkau123&theme=github_dark&utcOffset=5.5" width="32%"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 💭 RANDOM DEV QUOTE                                                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💭 &nbsp;Dev Wisdom
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The+best+code+is+no+code+at+all.+Every+new+line+of+code+you+willingly+bring+into+the+world+is+code+that+has+to+be+debugged.&author=Jeff+Atwood" width="70%"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🤝 LET'S CONNECT                                                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 &nbsp;Let's Build Together
+
+<div align="center">
+
+<p>
+<i>I'm always open to collaborating on interesting backend, DevOps, or system design projects.<br/>
+If you have a moonshot idea or need a scalable backend — let's talk!</i>
+</p>
+
+<br/>
+
+<a href="https://linkedin.com/in/kartikeya-singh1211"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:singhkartikeya202@gmail.com"><img src="https://img.shields.io/badge/Shoot_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<a href="https://instagram.com/kartikeya_singh360"><img src="https://img.shields.io/badge/Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+<br/><br/>
+
+<!-- FUN ANIMATED MESSAGE -->
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]o]     @@
+@@       | 🧑‍💻 Thanks for visiting my profile!          |     @@
+@@       | 🌟 Star my repos if you find them useful!    |     @@
+@@       | 🤝 Open to collaborations & opportunities!   |     @@
+@@       | 🚀 Let's build the future of tech together!  |     @@
+@@       o]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]o]     @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
----
-
-<div align="center">
-  
-### 💬 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=karkau123&color=blueviolet&style=for-the-badge&label=Profile+Views)
-
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌊 FOOTER                                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7B2FFE&height=120&section=footer" width="100%"/>
 </div>
 
 <div align="center">
-  
-### ⭐ From [karkau123](https://github.com/karkau123) with 💙
+
+**⭐ From [karkau123](https://github.com/karkau123) — Engineered with 💙 and ☕**
+
+<img src="https://img.shields.io/badge/Made_with-Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/Powered_by-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fueled_by-Coffee_☕-6F4E37?style=flat-square"/>
 
 </div>
