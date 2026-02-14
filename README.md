@@ -3,12 +3,12 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00D9FF,100:7B2FFE&height=200&section=header&text=KARTIKEYA%20SINGH&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Cloud%20Native%20Builder&descAlignY=55&descSize=16&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00D9FF,100:7B2FFE&height=200&section=header&text=KARTIKEYA%20SINGH&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Systems%20Architect&descAlignY=55&descSize=16&descAlign=50" width="100%"/>
 
 <!-- ANIMATED TYPING -->
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%94%A5+Building+Production-Grade+Backends;%E2%9A%A1+Python+%7C+Go+%7C+Kubernetes+%7C+Microservices;%F0%9F%9A%80+Scaling+Systems+to+Handle+Millions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%94%A5+Backend+%2B+AI%2FML+Engineer;%E2%9A%A1+Python+%7C+Go+%7C+LangChain+%7C+MCP+%7C+FastAPI;%F0%9F%A7%A0+Building+Intelligent+Scalable+Systems;%F0%9F%9A%80+From+APIs+to+AI+Agents)](https://git.io/typing-svg)
 
 <br/>
 
@@ -46,24 +46,28 @@
 const kartikeya = {
     pronouns: "he" | "him",
     location: "India 🇮🇳",
-    title: "Backend Engineer & Systems Architect",
+    title: "Backend Engineer & AI/ML Engineer",
     
-    code: {
-        languages:  ["Python", "Go", "C++", "C", "Dart", "JavaScript"],
-        backend:    ["FastAPI", "Flask", "Gin", "gRPC"],
-        databases:  ["PostgreSQL", "MongoDB", "Redis", "SQLite"],
-        devops:     ["Docker", "Kubernetes", "CI/CD", "Linux", "Nginx"],
-        mobile:     ["Flutter", "Dart", "Android"],
-        tools:      ["Git", "Prometheus", "Grafana", "Helm", "Istio"]
+    backend: {
+        languages:  ["Python", "Go", "C++", "C"],
+        frameworks: ["FastAPI", "Flask", "Gin", "gRPC"],
+        databases:  ["PostgreSQL", "MongoDB", "Redis"],
+        devops:     ["Docker", "Kubernetes", "CI/CD", "Linux"]
+    },
+
+    ai_ml: {
+        frameworks: ["LangChain", "PyTorch", "TensorFlow", "HuggingFace"],
+        tools:      ["MCP (Model Context Protocol)", "MLflow", "Weights & Biases"],
+        focus:      ["LLM Agents", "RAG Pipelines", "ML CI/CD", "AI Backends"]
     },
     
     architecture: [
-        "Microservices", "Event-Driven", "Serverless",
-        "REST APIs", "Distributed Systems", "CQRS"
+        "Microservices", "Event-Driven", "AI-Augmented APIs",
+        "LLM-Powered Systems", "Distributed Systems", "MCP Servers"
     ],
     
-    currentlyLearning: "Advanced Kubernetes Patterns & Service Mesh",
-    funFact: "I debug distributed systems for fun on weekends 🔍"
+    currentlyBuilding: "AI-powered backends with MCP & LangChain 🧠",
+    funFact: "I build AI agents that debug systems for me 🤖"
 };
 ```
 
@@ -183,73 +187,57 @@ const kartikeya = {
 <div align="center">
 
 <!-- LANGUAGES -->
-<h3>⚔️ Languages & Core</h3>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<h3>⚔️ Languages</h3>
+<img src="https://skillicons.dev/icons?i=python,go,cpp,c,javascript,dart&theme=dark" />
+
+<br/><br/>
 
 <!-- BACKEND & FRAMEWORKS -->
 <h3>🔥 Backend & Frameworks</h3>
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" height="28"/>
+
+<br/><br/>
+
+<!-- AI/ML -->
+<h3>🧠 AI / ML & LLMs</h3>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/MCP-00D9FF?style=flat-square&logo=anthropic&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28"/>
+
+<br/><br/>
 
 <!-- DATABASES -->
 <h3>🗄️ Databases & Caching</h3>
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,sqlite&theme=dark" />
+
+<br/><br/>
 
 <!-- DEVOPS & CLOUD -->
 <h3>☁️ DevOps & Infrastructure</h3>
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" height="28"/>
 
-<!-- MONITORING -->
-<h3>📊 Observability & Monitoring</h3>
-<p>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white"/>
-</p>
-
-<!-- MOBILE -->
-<h3>📱 Mobile Development</h3>
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
+<br/><br/>
 
 <!-- TOOLS -->
 <h3>🔧 Tools & Platforms</h3>
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" height="28"/>
 
 </div>
 
@@ -300,7 +288,10 @@ const kartikeya = {
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=karkau123&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="95%"/>
+
+<!-- If trophies don't load, the service may be temporarily down — they will auto-recover -->
+<img src="https://github-trophies.vercel.app/?username=karkau123&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="95%"/>
+
 </div>
 
 <br/>
@@ -322,22 +313,25 @@ status: "🟢 ACTIVE"
 last_updated: "2026-02-14"
 
 learning:
-  - "☸️  Advanced Kubernetes Patterns & Operators"
-  - "🕸️  Service Mesh with Istio & Envoy"
-  - "📡  gRPC & Protocol Buffers"
-  - "🔄  Event-Driven Architectures (Kafka, NATS)"
+  - "🧠  MCP (Model Context Protocol) & AI Agents"
+  - "🦜  LangChain & RAG Pipelines"
+  - "🤖  Decentralized AI & Federated Learning"
+  - "�  Fine-tuning LLMs & Prompt Engineering"
+  - "☸️  Advanced Kubernetes Patterns & MLOps"
 
 building:
   - "🏦  E-Wallet — Production-grade digital payment system"
   - "🛒  Scalable E-Commerce — Microservices architecture"
   - "🤖  ML CI/CD — Automated ML deployment pipeline"
-  - "⚡  High-performance REST & gRPC APIs"
+  - "⚡  AI-Augmented APIs with MCP Servers"
+  - "🧪  LLM-powered intelligent backends"
 
 exploring:
-  - "☁️  CNCF Ecosystem & Cloud Native Tooling"
-  - "📊  Distributed Tracing (Jaeger, OpenTelemetry)"
-  - "🔒  Zero-Trust Security Architectures"
-  - "🧪  Chaos Engineering & Resilience Testing"
+  - "🌐  Agentic AI & Multi-Agent Orchestration"
+  - "📊  ML Observability (W&B, MLflow)"
+  - "�  Vector Databases & Embeddings (Pinecone, Weaviate)"
+  - "🔒  AI Safety & Responsible AI"
+  - "☁️  CNCF Ecosystem & Cloud Native AI"
 ```
 
 </div>
@@ -362,41 +356,41 @@ exploring:
 <sub>Design & build RESTful APIs<br/>and gRPC services at scale</sub>
 </td>
 <td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60px"/><br/>
+<b>AI/ML Engineering</b><br/>
+<sub>LLM agents, RAG pipelines<br/>& intelligent backends</sub>
+</td>
+<td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/microservices.png" width="60px"/><br/>
 <b>Microservices</b><br/>
 <sub>Decompose monoliths into<br/>scalable, resilient services</sub>
 </td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/bot.png" width="60px"/><br/>
+<b>MCP & AI Agents</b><br/>
+<sub>Model Context Protocol<br/>& multi-agent systems</sub>
+</td>
+</tr>
+<tr>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/docker.png" width="60px"/><br/>
 <b>Containerization</b><br/>
 <sub>Docker & Kubernetes for<br/>production orchestration</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/combo-chart--v1.png" width="60px"/><br/>
-<b>Observability</b><br/>
-<sub>Prometheus, Grafana &<br/>distributed tracing</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/database.png" width="60px"/><br/>
 <b>Database Design</b><br/>
-<sub>SQL & NoSQL schema design,<br/>migrations & optimization</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/security-checked.png" width="60px"/><br/>
-<b>Auth & Security</b><br/>
-<sub>JWT, OAuth2, RBAC and<br/>security best practices</sub>
+<sub>SQL, NoSQL & Vector DBs<br/>for AI-powered apps</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/test-tube.png" width="60px"/><br/>
-<b>Testing & CI/CD</b><br/>
-<sub>Unit, integration tests &<br/>automated pipelines</sub>
+<b>MLOps & CI/CD</b><br/>
+<sub>ML pipelines, automated<br/>training & deployment</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/smartphone-performance-2.png" width="60px"/><br/>
-<b>Mobile Apps</b><br/>
-<sub>Cross-platform Flutter<br/>applications</sub>
+<img src="https://img.icons8.com/fluency/96/combo-chart--v1.png" width="60px"/><br/>
+<b>Observability</b><br/>
+<sub>Prometheus, Grafana &<br/>ML monitoring</sub>
 </td>
 </tr>
 </table>
