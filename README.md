@@ -188,56 +188,56 @@ const kartikeya = {
 
 <!-- LANGUAGES -->
 <h3>⚔️ Languages</h3>
-<img src="https://skillicons.dev/icons?i=python,go,cpp,c,javascript,dart&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,go,cpp,c,javascript,dart&theme=dark" height="36" />
 
 <br/><br/>
 
 <!-- BACKEND & FRAMEWORKS -->
 <h3>🔥 Backend & Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django&theme=dark" height="36" />
 <br/>
-<img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" height="22"/>
 
 <br/><br/>
 
 <!-- AI/ML -->
 <h3>🧠 AI / ML & LLMs</h3>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="36" />
 <br/>
-<img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black" height="28"/>
-<img src="https://img.shields.io/badge/MCP-00D9FF?style=flat-square&logo=anthropic&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" height="28"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black" height="22"/>
+<img src="https://img.shields.io/badge/MCP-00D9FF?style=flat-square&logo=anthropic&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" height="22"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="22"/>
 
 <br/><br/>
 
 <!-- DATABASES -->
 <h3>🗄️ Databases & Caching</h3>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,sqlite&theme=dark" height="36" />
 
 <br/><br/>
 
 <!-- DEVOPS & CLOUD -->
 <h3>☁️ DevOps & Infrastructure</h3>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions&theme=dark" height="36" />
 <br/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" height="22"/>
 
 <br/><br/>
 
 <!-- TOOLS -->
 <h3>🔧 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="36" />
 <br/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="28"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="22"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" height="22"/>
 
 </div>
 
@@ -499,17 +499,6 @@ If you have a moonshot idea or need a scalable backend — let's talk!</i>
 
 <br/><br/>
 
-<!-- FUN ANIMATED MESSAGE -->
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]o]     @@
-@@       | 🧑‍💻 Thanks for visiting my profile!          |     @@
-@@       | 🌟 Star my repos if you find them useful!    |     @@
-@@       | 🤝 Open to collaborations & opportunities!   |     @@
-@@       | 🚀 Let's build the future of tech together!  |     @@
-@@       o]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]o]     @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
 
 </div>
 
