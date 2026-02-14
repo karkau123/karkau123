@@ -8,7 +8,7 @@
 <!-- ANIMATED TYPING -->
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%94%A5+Backend+%2B+AI%2FML+Engineer;%E2%9A%A1+Python+%7C+Go+%7C+LangChain+%7C+MCP+%7C+FastAPI;%F0%9F%A7%A0+Building+Intelligent+Scalable+Systems;%F0%9F%9A%80+From+APIs+to+AI+Agents)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=%F0%9F%94%A5+Backend+%2B+AI%2FML+Engineer;%E2%9A%A1+Python+%7C+Go+%7C+LangChain+%7C+MCP+%7C+FastAPI;%F0%9F%A7%A0+Building+Intelligent+Scalable+Systems;%F0%9F%9A%80+From+APIs+to+AI+Agents)](https://git.io/typing-svg)
 
 <br/>
 
