@@ -87,10 +87,7 @@ const kartikeya = {
 <tr>
 <td width="50%">
 
-### 🏦 E-Wallet — Digital Payment System
-<a href="https://github.com/karkau123/E-Wallet">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=karkau123&repo=E-Wallet&theme=react&bg_color=0D1117&border_color=1a1b27&hide_border=false&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" width="100%"/>
-</a>
+### <a href="https://github.com/karkau123/E-Wallet">🏦 E-Wallet — Digital Payment System</a>
 
 **`Python`** **`FastAPI`** **`SQLAlchemy`** **`REST API`**
 
@@ -99,10 +96,7 @@ const kartikeya = {
 </td>
 <td width="50%">
 
-### 🛒 Scalable E-Commerce App
-<a href="https://github.com/karkau123/Scalable-Ecommerce-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=karkau123&repo=Scalable-Ecommerce-app&theme=react&bg_color=0D1117&border_color=1a1b27&hide_border=false&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" width="100%"/>
-</a>
+### <a href="https://github.com/karkau123/Scalable-Ecommerce-app">🛒 Scalable E-Commerce App</a>
 
 **`Microservices`** **`Go`** **`Docker`** **`Scalable`**
 
@@ -114,10 +108,7 @@ const kartikeya = {
 <tr>
 <td width="50%">
 
-### 🤖 ML CI/CD Pipeline
-<a href="https://github.com/karkau123/ML_CI_CD">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=karkau123&repo=ML_CI_CD&theme=react&bg_color=0D1117&border_color=1a1b27&hide_border=false&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" width="100%"/>
-</a>
+### <a href="https://github.com/karkau123/ML_CI_CD">🤖 ML CI/CD Pipeline</a>
 
 **`ML Ops`** **`CI/CD`** **`Python`** **`Automation`**
 
@@ -126,10 +117,7 @@ const kartikeya = {
 </td>
 <td width="50%">
 
-### 📝 Job Autofiller
-<a href="https://github.com/karkau123/Job-Autofiller">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=karkau123&repo=Job-Autofiller&theme=react&bg_color=0D1117&border_color=1a1b27&hide_border=false&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" width="100%"/>
-</a>
+### <a href="https://github.com/karkau123/Job-Autofiller">📝 Job Autofiller</a>
 
 **`Automation`** **`Python`** **`Web Scraping`** **`Tool`**
 
@@ -141,10 +129,7 @@ const kartikeya = {
 <tr>
 <td width="50%">
 
-### 💬 Real-Time Chat App
-<a href="https://github.com/karkau123/CHAT_APP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=karkau123&repo=CHAT_APP&theme=react&bg_color=0D1117&border_color=1a1b27&hide_border=false&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" width="100%"/>
-</a>
+### <a href="https://github.com/karkau123/CHAT_APP">💬 Real-Time Chat App</a>
 
 **`Flutter`** **`Dart`** **`Firebase`** **`Real-Time`**
 
@@ -153,10 +138,7 @@ const kartikeya = {
 </td>
 <td width="50%">
 
-### ⚡ FastAPI Backend
-<a href="https://github.com/karkau123/FastAPI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=karkau123&repo=FastAPI&theme=react&bg_color=0D1117&border_color=1a1b27&hide_border=false&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" width="100%"/>
-</a>
+### <a href="https://github.com/karkau123/FastAPI">⚡ FastAPI Backend</a>
 
 **`FastAPI`** **`Python`** **`Backend`** **`API`**
 
