@@ -1,14 +1,12 @@
-
-
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00D9FF,100:7B2FFE&height=200&section=header&text=KARTIKEYA%20SINGH&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Systems%20Architect&descAlignY=55&descSize=16&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00D9FF,100:7B2FFE&height=200&section=header&text=KARTIKEYA%20SINGH&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Systems%20Architect&descAlignY=55&descSize=16&descAlign=50" width="100%"/>
 
 <!-- ANIMATED TYPING -->
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=%F0%9F%94%A5+Backend+%2B+AI%2FML+Engineer;%E2%9A%A1+Python+%7C+Go+%7C+LangChain+%7C+MCP+%7C+FastAPI;%F0%9F%A7%A0+Building+Intelligent+Scalable+Systems;%F0%9F%9A%80+From+APIs+to+AI+Agents)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=%F0%9F%94%A5+Backend+%2B+AI%2FML;%E2%9A%A1+Python+%7C+Go+%7C+LangChain+%7C+MCP+%7C+FastAPI;%F0%9F%A7%A0+Building+Intelligent+Scalable+Systems;%F0%9F%9A%80+From+APIs+to+AI+Agents)](https://git.io/typing-svg)
 
 <br/>
 
@@ -44,9 +42,8 @@
 // ─── kartikeya.config.js ────────────────────────────────────────────────────────
 
 const kartikeya = {
-    pronouns: "he" | "him",
     location: "India 🇮🇳",
-    title: "Backend Engineer & AI/ML Engineer",
+    title: "Backend & AI/ML Specialist",
     
     backend: {
         languages:  ["Python", "Go", "C++", "C"],
@@ -159,74 +156,6 @@ const kartikeya = {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🛠️ TECH ARSENAL                                                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Tech Arsenal
-
-<div align="center">
-
-<!-- LANGUAGES -->
-<h3>⚔️ Languages</h3>
-<img src="https://skillicons.dev/icons?i=python,go,cpp,c,javascript,dart&theme=dark" height="36" />
-
-<br/><br/>
-
-<!-- BACKEND & FRAMEWORKS -->
-<h3>🔥 Backend & Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django&theme=dark" height="36" />
-<br/>
-<img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white" height="22"/>
-<img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white" height="22"/>
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" height="22"/>
-
-<br/><br/>
-
-<!-- AI/ML -->
-<h3>🧠 AI / ML & LLMs</h3>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="36" />
-<br/>
-<img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square&logoColor=white" height="22"/>
-<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black" height="22"/>
-<img src="https://img.shields.io/badge/MCP-00D9FF?style=flat-square&logo=anthropic&logoColor=white" height="22"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="22"/>
-<img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" height="22"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="22"/>
-
-<br/><br/>
-
-<!-- DATABASES -->
-<h3>🗄️ Databases & Caching</h3>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,sqlite&theme=dark" height="36" />
-
-<br/><br/>
-
-<!-- DEVOPS & CLOUD -->
-<h3>☁️ DevOps & Infrastructure</h3>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions&theme=dark" height="36" />
-<br/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" height="22"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" height="22"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" height="22"/>
-
-<br/><br/>
-
-<!-- TOOLS -->
-<h3>🔧 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="36" />
-<br/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="22"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="22"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" height="22"/>
-
-</div>
-
-<br/>
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 📈 GITHUB ANALYTICS                                                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
@@ -262,23 +191,6 @@ const kartikeya = {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 TROPHIES                                                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-<!-- If trophies don't load, the service may be temporarily down — they will auto-recover -->
-<img src="https://github-trophies.vercel.app/?username=karkau123&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="95%"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🎯 WHAT I'M UP TO                                                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
@@ -298,7 +210,7 @@ learning:
   - "🧠  MCP (Model Context Protocol) & AI Agents"
   - "🦜  LangChain & RAG Pipelines"
   - "🤖  Decentralized AI & Federated Learning"
-  - "�  Fine-tuning LLMs & Prompt Engineering"
+  - "🔧  Fine-tuning LLMs & Prompt Engineering"
   - "☸️  Advanced Kubernetes Patterns & MLOps"
 
 building:
@@ -311,7 +223,7 @@ building:
 exploring:
   - "🌐  Agentic AI & Multi-Agent Orchestration"
   - "📊  ML Observability (W&B, MLflow)"
-  - "�  Vector Databases & Embeddings (Pinecone, Weaviate)"
+  - "🔍  Vector Databases & Embeddings (Pinecone, Weaviate)"
   - "🔒  AI Safety & Responsible AI"
   - "☁️  CNCF Ecosystem & Cloud Native AI"
 ```
@@ -378,26 +290,6 @@ exploring:
 </table>
 
 </div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 CONTRIBUTION SNAKE                                                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🐍 &nbsp;Watch My Contributions Get Eaten
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karkau123/karkau123/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karkau123/karkau123/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/karkau123/karkau123/output/github-snake-dark.svg" width="100%"/>
-</picture>
-</div>
-
-> 💡 **Setup Tip:** Add [this GitHub Action](https://github.com/Platane/snk) to your profile repo to auto-generate the snake animation!
 
 <br/>
 
